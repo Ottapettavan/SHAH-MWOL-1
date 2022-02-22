@@ -9,8 +9,10 @@
 <a href="https://github.com/Ottapettavan"><img title="Author" src="https://img.shields.io/badge/Author-Ottapettavan/SHAH-MWOL?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ottapettavan&show_icons=true&theme=dark&locale=en&layout=compact" alt="Ottapettavan"  /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=https:Ottapettavan&show_icons=true&theme=dark&locale=en" alt="Ottapettavan" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xxirfanx&theme=dark" alt="Ottapettavan" /></p>
+</p>
 
 ## Setup
 
@@ -25,9 +27,9 @@
 
 4. You will have to fork this git to deploy via Heroku.
   click to fork the git into your account
- Click [FORK](https://github.com/Chunkindepadayali/LIZA-MWOL/fork)
+ Click [FORK](https://github.com/Ottapettavan/SHAH-MWOL/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/Chunkindepadayali/LIZA-MWOL copy this url and change Chunkindepadayali with your github username and click go<br>
+5. Now https://heroku.com/deploy?template=https://github.com/Ottapettavan/SHAH-MWOL copy this url and change Ottapettavan with your github username and click go<br>
 ## 1. join what's app [bot] group 
 <br>
 <a href="https://chat.whatsapp.com/JPh6rmkqbuo2wdAXvKd7Jn"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-red?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> 
