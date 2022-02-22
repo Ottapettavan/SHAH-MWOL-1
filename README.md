@@ -1,8 +1,17 @@
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Chunkindepadayali/LIZA-MWOL/master/Its-me-liza-mwol.gif" alt="LIZA MWOL" />
+  <img src="SHAMOWL.jpg" alt="LIZA MWOL" />
 </h1>
-  
+  <p align="center">
+<a href="#"><img title="SHAH-MWOL" src="https://img.shields.io/badge/SHAH-MWOL-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="https://github.com/Ottapettavan"><img title="Author" src="https://img.shields.io/badge/Author-Ottapettavan/SHAH-MWOL?color=blue&style=for-the-badge&logo=whatsapp"></a>
+</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ottapettavan&show_icons=true&theme=dark&locale=en&layout=compact" alt="Ottapettavan"  /></p>
+
+
+
 ## Setup
 
 
