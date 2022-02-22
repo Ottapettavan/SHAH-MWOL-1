@@ -9,8 +9,8 @@
 <a href="https://github.com/Ottapettavan"><img title="Author" src="https://img.shields.io/badge/Author-Ottapettavan/SHAH-MWOL?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ottapettavan&show_icons=true&theme=dark&locale=en&layout=compact" alt="Ottapettavan"  /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=https:Ottapettavan&show_icons=true&theme=dark&locale=en" alt="Ottapettavan" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ottapettavan&show_icons=true&theme=dark&locale=en" alt="Ottapettavan" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xxirfanx&theme=dark" alt="Ottapettavan" /></p>
 </p>
 
