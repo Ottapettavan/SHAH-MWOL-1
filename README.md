@@ -6,7 +6,7 @@
 <a href="#"><img title="SHAH-MWOL" src="https://img.shields.io/badge/SHAH-MWOL-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-       <img src="IMG_4865.jpeg" width="200height="200"/>
+       
 <a href="https://github.com/Ottapettavan"><img title="Author" src="https://img.shields.io/badge/Author-Ottapettavan/SHAH-MWOL?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ottapettavan&show_icons=true&theme=dark&locale=en&layout=compact" alt="Ottapettavan"  /></p>
