@@ -80,7 +80,7 @@
             "value": "false"
         },
         "SHAH_AI": {
-            "description": "turn on chat back auto reply Liza (use true to on and fale to off)",
+            "description": "turn on chat back auto reply Shah (use true to on and fale to off)",
             "required": true,
             "value": "true"
         },
