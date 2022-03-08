@@ -7,9 +7,9 @@ WhatsAsena - Yusuf Usta
 const fs = require("fs");
 const path = require("path");
 const events = require("./events");
-const { getBuffer } = require('./func');
+
 const raganork = require("./raganork");
-const Shah = require('./Shah');
+const shah = require('./shah');
 const { FakeDB, takeMessage } = require("./plugins/sql/fake");
 const chalk = require('chalk');
 const config = require('./config');
@@ -340,7 +340,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                         } catch (error) {
                             if (config.NOLOG == 'off') {
                                 
-                                await conn.sendMessage(conn.user.jid, '*~_________~SHAH  𝐌𝐖𝐎𝐋࿐ ~______~*' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ 🆂🅷🅰🅷 𝐌𝐖𝐎𝐋࿐ ~______~*' +
                                     '\n\n*👾 ' + error + '*\n\n```Report errors\njoin ⚠️Warning bot not allowed in the group\nchat.whatsapp.com/HrPTDEi6NPsJpgvMZHNBg7``` ' 
                                     , MessageType.text);
                             }
