@@ -1,4 +1,4 @@
-
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝙒𝙀𝙇𝘾𝙊𝙈𝙀+𝙏𝙊+🆂🅷🅰🅷🅼🆆🅾🅻2.0+𝙒𝘼+𝘽𝙊𝙏+𝙍𝙀𝙋𝙊.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+🅾🆃🆃🅰🅿🅴🆃🆃🅰🆅🅰🅽1;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝘽𝙂𝙈+𝙎𝙏𝙄𝘾𝙆𝙀𝙍+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
 <h1 align="center">
   <img src="SHAMOWL.jpg" width="150 height="10"/> 
 </h1>
@@ -9,9 +9,16 @@
        
 <a href="https://github.com/Ottapettavan"><img title="Author" src="https://img.shields.io/badge/Author-Ottapettavan/SHAH-MWOL?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
+<p align="center">
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ottapettavan&show_icons=true&theme=dark&locale=en&layout=compact" alt="Ottapettavan"  /></p>
 
+<p align="center">
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ottapettavan&show_icons=true&theme=dark&locale=en" alt="Ottapettavan" /></p>
+
+<p align="center">
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xxirfanx&theme=dark" alt="Ottapettavan" /></p>
 </p>
 
